@@ -1,4 +1,5 @@
-const apiKey = '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';
+require('dotenv').config();
+const apiKey = process.env.OPENAI_API_KEY;
 const { Configuration, OpenAIApi } = require("openai");
 const fs = require('fs');
 const serverless = require('serverless-http');
