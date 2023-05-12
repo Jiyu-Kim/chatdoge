@@ -52,6 +52,8 @@
   ✔ Prompt Engineering <br/>
   ✔ How to use AWS Lambsa <br/>
   ✔ How to use DALL·E 2 <br/>
+  ✔ RESTful API
+  ✔ CORS
   ✔ What happened when API key is uploaded to Github...🥴<br/>
   
 </div>
