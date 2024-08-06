@@ -12,9 +12,9 @@
   <br/>
   
   ## 💻 Functions
-  ✔ 생년월일 입력 <br/>
-  ✔ 태어난 시각 입력 <br/>
-  ✔ 챗도지와 채팅하기 <br/>
+  ✔ Input your birth date <br/>
+  ✔ Input your birth time <br/>
+  ✔ Start chat with chatDoge <br/>
   <br/>
   
   ## 🔧 Tech Stack
