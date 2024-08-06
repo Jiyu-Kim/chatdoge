@@ -6,7 +6,8 @@
 <div>
 
   ## 📌 Introduction
-  ChatGPT 3.5가 봐주는 당신의 사주팔자
+  ChatGPT 3.5 will reveal your cosminc destiny called 사주팔자! <br/><br/>
+  <i>사주팔자 (Saju Palja) is a traditional Korean term that refers to a person's fate or destiny, which is determined by the four pillars of destiny in Chinese astrology (birth year, month, day, and hour).</i>
   <br/>
   <br/>
   
